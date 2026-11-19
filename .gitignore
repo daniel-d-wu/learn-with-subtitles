@@ -1,0 +1,11 @@
+# Exported viewing data (personal)
+*.jsonl
+lomb_export*
+# Subtitle test files
+*.vtt
+*.srt
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
